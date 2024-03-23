@@ -1,0 +1,66 @@
+/* Hauptmenü */
+.main-menu {
+  text-align: center;
+  font-family: Verdana, Arial, sans-serif;
+}
+
+.Überschrift {
+font-family: Verdana, Arial, sans-serif;
+
+}
+
+.menu-button {
+  margin: 0 auto; /* Zentriert den Menü-Button horizontal */
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Zentriert den Menü-Button vertikal */
+  align-items: center; /* Zentriert den Inhalt des Menü-Buttons */
+  background-color: #FFDAB9; /* Ändert die Hintergrundfarbe auf Rot (#ff0000) */
+  color:  #000000; /* Ändert die Textfarbe auf Weiß (#ffffff) */
+  width: 200px; /* Setzt eine feste Breite für den Menü-Button */
+  height: 100px; /* Setzt eine feste Höhe für den Menü-Button */
+  font-family: Verdana, Arial, sans-serif;
+}
+
+.input-field {
+  /* Stil für das Eingabefeld */
+}
+
+.output-field {
+  /* Stil für das Ausgabefeld */
+}
+
+.back-button {
+  margin: 0 auto; /* Zentriert den Menü-Button horizontal */
+  display: flex;
+  flex-direction: column;
+  justify-content: left; /* Zentriert den Menü-Button vertikal */
+  align-items: left; /* Zentriert den Inhalt des Menü-Buttons */
+
+  font-family: Verdana, Arial, sans-serif;
+}
+
+.chart {
+  /* Stil für das Diagramm */
+}
+
+.label {
+  /* Stil für das Label */
+    font-size: 24px;
+    font-family: Verdana, Arial, sans-serif;
+}
+
+.dropdown {
+  /* Stil für die Dropdown-Liste */
+    color: black;
+}
+
+.dropdown-container {
+  /* Stil für den Dropdown-Container */
+  color: black;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
