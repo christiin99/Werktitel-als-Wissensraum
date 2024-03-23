@@ -19,3 +19,6 @@ geeignet, die der Form einer prototypischen Webseite entspricht.
 
 Wir möchten uns herzlich beim DLA Marbach und der HAAB Weimar für die Bereitstellung des
 Datensatzes bedanken!
+
+
+Hinweis: Die Datei "Hauptmenü.css" muss sowohl im Ordner "assets" als auch "venv" abgelegt werden.
