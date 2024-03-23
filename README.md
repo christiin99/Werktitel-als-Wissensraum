@@ -1,6 +1,6 @@
 Im Rahmen unserer Projektarbeit haben uns das Deutsche Literaturarchiv Marbach (DLA)
 sowie die Herzogin Anna Amalia Bibliothek Weimar (HAAB) einen Datensatz mit dem
-Projektnamen Werktitel als Wissensraum zur Verfügung gestellt. Untersuchungsgegenstand
+Projektnamen "Werktitel als Wissensraum" zur Verfügung gestellt. Untersuchungsgegenstand
 des Datensatzes ist die Vernetzung von bibliographischen Daten sowie die Anzahl der
 Normdaten für die Werke der deutschsprachigen Literatur in die Gemeinsame Normdatei
 (GND). Mithilfe unserer Projektleitung haben wir beschlossen, die Repräsentation der
